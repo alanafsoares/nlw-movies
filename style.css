@@ -95,14 +95,13 @@ section ul li:hover {
   transform: scale(1.1);
 }
 
-.movies-list img {
+.movies-list img,
+.series-list img {
   border-radius: 8px;
   width: 90px;  
 }
 
-.channel-list img {
-  border-radius: 50%;
-  width: 70px;
+.series-list img {
   border: 1px solid #443E54;
 }
 
