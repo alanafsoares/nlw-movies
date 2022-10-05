@@ -6,7 +6,7 @@
 
 [🔗 Clique aqui para acessar](https://alanafsoares.github.io/nlw-movies/)
 
-##  Tecnologias
+##  Tech
 
 - HTML
 - CSS
